@@ -1,0 +1,11 @@
+/* stylesheet */
+
+#ideas-table {
+	 background-color: white;
+	 margin:2%;
+	 width: 97%;
+}
+
+#new-idea-button{
+	margin-left: 2%;
+}

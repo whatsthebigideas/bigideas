@@ -1,0 +1,9 @@
+########################################################################
+ABSPATH wp dir ideas.xml_path: /srv/www/wordpress-default/public_html/ideas.xml
+ABSPATH: /srv/www/wordpress-default/public_html/
+path to plugin: /srv/www/wordpress-default/public_html/wp-content/plugins/ideas/
+javascript url: http://local.wordpress.test/wp-content/plugins/ideas/js/ideas.js
+stylesheet uri: http://local.wordpress.test/wp-content/themes/twentynineteen
+template uri: http://local.wordpress.test/wp-content/themes/twentynineteen
+########################################################################
+hello22222
