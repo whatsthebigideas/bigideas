@@ -1,0 +1,10 @@
+########################################################################
+ABSPATH: /srv/www/wordpress-default/public_html/
+ABSPATH . ideas.xml: /srv/www/wordpress-default/public_html/ideas.xml
+plugin_dir_path(__FILE__): /srv/www/wordpress-default/public_html/wp-content/plugins/ideas/
+plugins_url('ideas/js/ideas.js'): http://local.wordpress.test/wp-content/plugins/ideas/js/ideas.js
+get_stylesheet_directory_uri(): http://local.wordpress.test/wp-content/themes/twentyseventeen
+get_template_directory_uri(): http://local.wordpress.test/wp-content/themes/twentyseventeen
+get_site_url() . '/ideas.xml': http://local.wordpress.test/ideas.xml
+########################################################################
+hello22222
